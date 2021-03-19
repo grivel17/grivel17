@@ -23,10 +23,16 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ### MY SKILLS: 
 
-### 🖥️ HTML / CSS / SASS - intermediate / upperintermediate
+### 🖥️  HTML / CSS / SASS - intermediate / upperintermediate
 
-### 🌀 WORDPRESS - intermediate
+### 🌀  WORDPRESS - intermediate
 
-### ⚛️ JS / React - I've been learnig 
+### ⚛️  JS / React - I've been learnig 
 
-### 🐍 Python / Node.js - I've been learning 
+### 🐍  Python / Node.js - I've been learning 
+
+
+
+
+
+
