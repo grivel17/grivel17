@@ -29,6 +29,12 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ### ⚛️  JS / React - I've been learnig 
 
+### EXAMPLES OF MY WORK:
+
+<img src="" width="250px" />
+<img src="" width="250px" />
+<img src="" width="250px" />
+
 ### 🐍  Python / Node.js - I've been learning 
 
 
