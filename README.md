@@ -31,8 +31,8 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ### EXAMPLES OF MY WORK:
 
-<div style="display: inline-block"> 
-<div style="display:block";>
+<div style="display:flex"> 
+<div >
 #### Wordpress (commercial project)
 <a href="" target='_blank'><img src="https://github.com/grivel17/grivel17/blob/main/Zrzut%20ekranu%202021-03-19%20o%2012.12.35.png" width="350px" /></a>
 </div>
