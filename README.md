@@ -35,11 +35,11 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 
 ### Wordpress
-<a href=""><img src="" width="350px" /></a>
+<a href="" target='_blank'><img src="" width="350px" /></a>
 #### Pure HTML/CSS
-<a href=""><img src="" width="350px" /></a>
+<a href="" target='_blank'><img src="" width="350px" /></a>
 #### JS/React
-<a href=""><img src="" width="350px" /></a>
+<a href="" target='_blank'><img src="" width="350px" /></a>
 
 
 
