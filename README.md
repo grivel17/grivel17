@@ -29,13 +29,18 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ### ⚛️  JS / React - I've been learnig 
 
-### EXAMPLES OF MY WORK:
-<div style="float: left">
-<img src="https://github.com/grivel17/grivel17/blob/main/Zrzut%20ekranu%202021-03-19%20o%2012.12.05.png" width="250px" />
-<img src="" width="250px" />
-<img src="" width="250px" />
-</div>
 ### 🐍  Python / Node.js - I've been learning 
+
+### EXAMPLES OF MY WORK:
+
+
+### Wordpress
+<a href=""><img src="" width="350px" /></a>
+#### Pure HTML/CSS
+<a href=""><img src="" width="350px" /></a>
+#### JS/React
+<a href=""><img src="" width="350px" /></a>
+
 
 
 
