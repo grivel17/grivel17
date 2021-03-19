@@ -10,6 +10,10 @@ Ad.1. I'am Tomasz ... tutaj dalej do rozwinięcia
 
 Examples of work 
 
+<img src=''>
+
+tu pomyśleć o gif maker (10 minuta )
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17)](https://github.com/anuraghazra/github-readme-stats)
 
 
