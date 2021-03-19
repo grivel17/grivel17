@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Ad.1. I'am Tomasz ... tutaj dalej do rozwinięcia 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **grivel17/grivel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
