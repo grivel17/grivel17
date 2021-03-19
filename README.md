@@ -4,7 +4,7 @@
 ![I am a Web Developer / Wordpress Developer ](https://media-exp1.licdn.com/dms/image/C4E16AQFLdASSmeUyjg/profile-displaybackgroundimage-shrink_200_800/0/1616063279267?e=1621468800&v=beta&t=bWs9ftmnBk8kNeQ4RoOqSRYLY_z-JwE1ld3WaL-RPrw)
 
 
-For commercial purposes I create pages on Wordpress. I've been learning JS / React / Node.js and Python. In the near future, I would like to become a full stack developer.
+Commercialy I create pages on Wordpress. I've been learning JS / React / Node.js and Python. In the near future, I would like to become a full stack developer.
 
 
 - 🌱 I’m currently learning React / JS 
@@ -12,12 +12,15 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 - 💬 Ask me about cooperation  
 - 📫 How to reach me: wojciechowski.tomasz@gmail.com 
 
+<hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grivel17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomasz-wojciechowski-61600742/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ins-code.pl)  
 
+<hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17&show_icons=true)  
 
+<hr>
 
 ### MY SKILLS: 
 
@@ -30,6 +33,7 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 ### 🐍  Python / Node.js - I've been learning 
 
 <hr>
+
 ### EXAMPLES OF MY WORK:
 
 
