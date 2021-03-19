@@ -4,9 +4,15 @@ Ad.1. I'am Tomasz ... tutaj dalej do rozwinięcia
 
 ### Tutaj skillsy z ładną ikonką 
 
+⚛️ np. react 
+
+###
+
+Examples of work 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17)](https://github.com/anuraghazra/github-readme-stats)
 
-⚛️ np. react 
+
 
 <!--
 **grivel17/grivel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
