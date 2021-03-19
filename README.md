@@ -22,6 +22,12 @@ Commercialy I create pages on Wordpress. I've been learning JS / React / Node.js
 
 <hr>
 
+### 🏢 COMPANY 
+
+Currently self employment <a href="https://ins-code.pl">ins-code.pl</a>
+
+<hr>
+
 ### MY SKILLS: 
 
 ### 🖥️  HTML / CSS / SASS - intermediate / upperintermediate
