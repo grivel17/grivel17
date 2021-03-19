@@ -29,6 +29,7 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ### 🐍  Python / Node.js - I've been learning 
 
+<hr>
 ### EXAMPLES OF MY WORK:
 
 
