@@ -18,7 +18,7 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17&show_icons=true)  
 
-
+<img src='https://github.com/grivel17/grivel17/blob/main/brain.png' />
 
 
 ### MY SKILLS: 
