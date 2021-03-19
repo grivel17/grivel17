@@ -18,8 +18,6 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=grivel17&show_icons=true)  
 
-<a href="#"> <img src='https://github.com/grivel17/grivel17/blob/main/brain.png' /></a>
-
 
 ### MY SKILLS: 
 
@@ -34,11 +32,11 @@ For commercial purposes I create pages on Wordpress. I've been learning JS / Rea
 ### EXAMPLES OF MY WORK:
 
 
-### Wordpress
+### Wordpress (commercial project)
 <a href="" target='_blank'><img src="" width="350px" /></a>
-#### Pure HTML/CSS
+#### Pure HTML/CSS (voluntary project)
 <a href="" target='_blank'><img src="" width="350px" /></a>
-#### JS/React
+#### JS/React (personal web page)
 <a href="" target='_blank'><img src="" width="350px" /></a>
 
 
