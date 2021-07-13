@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tomasz Wojciechowski
+### Hi👋, my name is Tomasz Wojciechowski
 #### I am a Web Developer 
 
 
