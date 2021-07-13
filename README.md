@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tomasz Wojciechowski
-#### I am a Web Developer / Wordpress Developer 
+#### I am a Web Developer 
 
 ![I am a Web Developer / Wordpress Developer ](https://media-exp1.licdn.com/dms/image/C4E16AQFLdASSmeUyjg/profile-displaybackgroundimage-shrink_200_800/0/1616063279267?e=1621468800&v=beta&t=bWs9ftmnBk8kNeQ4RoOqSRYLY_z-JwE1ld3WaL-RPrw)
 
