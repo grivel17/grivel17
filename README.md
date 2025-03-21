@@ -1,10 +1,3 @@
-Commercialy I create pages on Wordpress. I've been learning JS / React / Node.js and Python. In the near future, I would like to become a full stack developer.
-
-- 🌱 I’m currently learning React / JS 
-- 👯 I’m looking to collaborate on React projects 
-- 💬 Ask me about cooperation  
-- 📫 How to reach me: wojciechowski.tomasz@gmail.com 
-
 <hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/grivel17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tomasz-wojciechowski-61600742/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ins-code.pl)  
