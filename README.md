@@ -1,11 +1,4 @@
-### Hi👋, my name is Tomasz Wojciechowski
-#### I am a Web Developer 
-
-
-
-
 Commercialy I create pages on Wordpress. I've been learning JS / React / Node.js and Python. In the near future, I would like to become a full stack developer.
-
 
 - 🌱 I’m currently learning React / JS 
 - 👯 I’m looking to collaborate on React projects 
